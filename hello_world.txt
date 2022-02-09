@@ -1,1 +1,2 @@
 Some text added.
+Another line of text is added.
